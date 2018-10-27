@@ -55,15 +55,6 @@ color:#FC0;
 }
 
 
-		
-
-
-
-
-
-
-
- 
 
 #topbar{
 height:50px;
@@ -71,18 +62,15 @@ margin:auto;
 margin-top:50px;
 color:#FFF;
 font-size:36px;
-font-family:Arial, Helvetica, sans-serif;
+font-family: 'Lobster', cursive;
 width:800px;
 border-bottom:solid white 1px;
+text-align: center;
 }
  
 .spacer{
 height:30px;
 }
-
- 
-
-
 
 
 .feedback1{
@@ -103,6 +91,16 @@ color:#FFFFCC;
 background-color:#CC3300;
 font-family:Arial, Helvetica, sans-serif;
 text-align:center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
 }
  
  
