@@ -1,3 +1,7 @@
+body {
+	color: black;
+}
+
 #navContent{
 margin:auto;	
 width:800px;
@@ -94,6 +98,7 @@ text-align:center;
     background-color: gray;
     color: white;
     text-align: center;
+    font-size: 18px;
 }
  
  
