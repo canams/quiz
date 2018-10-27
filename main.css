@@ -17,7 +17,7 @@ margin:auto;
 width:800px;
 height:400px;
 right:0px;
-left:20%;
+padding-left:20%;
 position:absolute;
 }
 
@@ -26,7 +26,7 @@ margin:auto;
 width:800px;
 height:400px;
 right:-800px;
-left:20%;
+padding-left:20%;
 position:absolute;
 } 
 
