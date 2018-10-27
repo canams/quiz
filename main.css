@@ -9,6 +9,8 @@ width:800px;
 height:400px;
 position:relative;
 overflow:hidden;
+margin-left: auto;
+margin-right: auto;
 }
 
 #game1{
@@ -96,8 +98,8 @@ text-align:center;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: gray;
-    color: white;
+    background-color: white;
+    color: black;
     text-align: center;
     font-size: 15px;
 }
