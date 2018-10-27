@@ -1,5 +1,5 @@
 body {
-	color: black;
+	background-color: black;
 }
 
 #navContent{
@@ -98,7 +98,7 @@ text-align:center;
     background-color: gray;
     color: white;
     text-align: center;
-    font-size: 18px;
+    font-size: 10px;
 }
  
  
