@@ -29,13 +29,11 @@ left:20%;
 position:absolute;
 } 
 
-
-
  
 .questionText{
 font-size:27px;
 color:#FFF;
-left: 25%;
+padding-left: 10%;
 }
 
 .option{width:400px;
@@ -48,6 +46,7 @@ padding-left:10px;
 border: 2px solid gray;
 cursor:pointer;
 background-color:white;
+text-align: center;
 }
 
 .option:hover{
