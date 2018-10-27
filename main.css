@@ -18,6 +18,7 @@ width:800px;
 height:400px;
 right:0px;
 padding-left:20%;
+border: 2px solid red;
 position:absolute;
 }
 
