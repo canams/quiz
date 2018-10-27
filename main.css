@@ -32,7 +32,7 @@ position:absolute;
 .questionText{
 font-size:27px;
 color:#FFF;
-text-align: justify;
+text-align: center;
 }
 
 .option{width:100%;
