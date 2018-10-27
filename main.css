@@ -1,6 +1,7 @@
 html, body {
 	background-color: black;
-	font-family: 'Forum', cursive
+	font-family: 'Forum', cursive;
+	text-align: center;
 }
 
 #navContent{
