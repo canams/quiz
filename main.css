@@ -75,6 +75,7 @@ height:30px;
 
 
 .feedback1{
+margin: auto;
 width:150px;
 padding:5px;
 font-size:30px;
@@ -85,6 +86,7 @@ text-align:center;
 }
 
 .feedback2{
+margin: auto;
 width:150px;
 padding:5px;
 font-size:30px;
