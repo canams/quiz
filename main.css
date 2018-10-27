@@ -17,8 +17,6 @@ margin:auto;
 width:800px;
 height:400px;
 right:0px;
-padding-left:20%;
-border: 2px solid red;
 position:absolute;
 }
 
@@ -27,7 +25,6 @@ margin:auto;
 width:800px;
 height:400px;
 right:-800px;
-padding-left:20%;
 position:absolute;
 } 
 
@@ -45,6 +42,7 @@ font-size:18px;
 color:black; 
 padding:2px;
 padding-left:10px;
+left: 20%;
 border: 2px solid gray;
 cursor:pointer;
 background-color:white;
