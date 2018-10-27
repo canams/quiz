@@ -1,22 +1,64 @@
 {"quizlist":[
   
 	{
-	"question":"Portuguese is spoken in _______",
-	"option1":"Brazil",
-	"option2":"Argentina",
-	"option3":"Ecuador"
+	"question":"What is Chia's favourite food?",
+	"option1":"Chinese",
+	"option2":"Pizza",
+	"option3":"Chicken"
 	},
 	{
-	"question":"What is the capital of Peru?",
-	"option1":"Lima",
-	"option2":"Bogota",
-	"option3":"San Juan"
+	"question":"What does Chia drink the most?",
+	"option1":"Juice",
+	"option2":"Water",
+	"option3":"Tea"
 	},
 	{
-	"question":"Which country is long and thin?",
-	"option1":"Chile",
-	"option2":"Uruguay",
-	"option3":"Colombia"
+	"question":"Which pet does Chia most want?",
+	"option1":"Monkey",
+	"option2":"Dog",
+	"option3":"Horse"
+	},
+	{
+	"question":"Which Harry Potter house would Chia be in?",
+	"option1":"Ravenclaw",
+	"option2":"Slytherin",
+	"option3":"Gryffindor"
+	},
+	{
+	"question":"What is Chia's favourite movie genre?",
+	"option1":"Thriller",
+	"option2":"Comedy",
+	"option3":"Action"
+	},
+	{
+	"question":"What was Chia's favourite subject at school?",
+	"option1":"PE",
+	"option2":"Art",
+	"option3":"Maths"
+	},
+	{
+	"question":"Which of these can Chia play?",
+	"option1":"Piano",
+	"option2":"Drums",
+	"option3":"Saxophone"
+	},
+	{
+	"question":"Where does Chia want to live?",
+	"option1":"Canada",
+	"option2":"UK",
+	"option3":"Switzerland"
+	},
+	{
+	"question":"How many countries has Chia been to?",
+	"option1":"8",
+	"option2":"1",
+	"option3":"3"
+	},
+	{
+	"question":"Which of these could Chia not live without?",
+	"option1":"Music",
+	"option2":"TV/Movies",
+	"option3":"Social Media"
 	}
 
 ]
