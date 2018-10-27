@@ -35,6 +35,7 @@ position:absolute;
 .questionText{
 font-size:27px;
 color:#FFF;
+left: 15%;
 }
 
 .option{width:400px;
