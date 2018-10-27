@@ -9,8 +9,6 @@ width:800px;
 height:400px;
 position:relative;
 overflow:hidden;
-margin-left: auto;
-margin-right: auto;
 }
 
 #game1{
@@ -18,6 +16,7 @@ margin:auto;
 width:800px;
 height:400px;
 right:0px;
+left:40%;
 position:absolute;
 }
 
@@ -26,6 +25,7 @@ margin:auto;
 width:800px;
 height:400px;
 right:-800px;
+left:40%;
 position:absolute;
 } 
 
