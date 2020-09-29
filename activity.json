@@ -1,65 +1,64 @@
-{"quizlist":[
-  
-	{
-	"question":"What is Chia's favourite food?",
-	"option1":"Chinese",
-	"option2":"Pizza",
-	"option3":"Chicken"
-	},
-	{
-	"question":"What does Chia drink the most?",
-	"option1":"Juice",
-	"option2":"Water",
-	"option3":"Tea"
-	},
-	{
-	"question":"Which pet does Chia most want?",
-	"option1":"Monkey",
-	"option2":"Dog",
-	"option3":"Horse"
-	},
-	{
-	"question":"Which Harry Potter house would Chia be in?",
-	"option1":"Ravenclaw",
-	"option2":"Slytherin",
-	"option3":"Gryffindor"
-	},
-	{
-	"question":"What is Chia's favourite movie genre?",
-	"option1":"Thriller",
-	"option2":"Comedy",
-	"option3":"Action"
-	},
-	{
-	"question":"What was Chia's favourite subject at school?",
-	"option1":"PE",
-	"option2":"Art",
-	"option3":"Maths"
-	},
-	{
-	"question":"Which of these can Chia play?",
-	"option1":"Piano",
-	"option2":"Drums",
-	"option3":"Saxophone"
-	},
-	{
-	"question":"Where does Chia want to live?",
-	"option1":"Canada",
-	"option2":"UK",
-	"option3":"Switzerland"
-	},
-	{
-	"question":"How many countries has Chia been to?",
-	"option1":"8",
-	"option2":"1",
-	"option3":"3"
-	},
-	{
-	"question":"Which of these could Chia not live without?",
-	"option1":"Music",
-	"option2":"TV/Movies",
-	"option3":"Social Media"
-	}
-
-]
+{
+  "quizlist": [
+    {
+      "question": "What is Chia's favourite food?",
+      "option1": "Thai",
+      "option2": "Pizza",
+      "option3": "Chicken"
+    },
+    {
+      "question": "Which sports did Chia play in school?",
+      "option1": "Netball, Rugby, Athletics",
+      "option2": "Volleyball, Football, Swimming",
+      "option3": "Tennis, Netball, Athletics"
+    },
+    {
+      "question": "If Chia could have any pet, what would it be?",
+      "option1": "Monkey",
+      "option2": "Dog",
+      "option3": "Horse"
+    },
+    {
+      "question": "Which Harry Potter house would Chia be in?",
+      "option1": "Ravenclaw",
+      "option2": "Slytherin",
+      "option3": "Gryffindor"
+    },
+    {
+      "question": "What is Chia's favourite movie genre?",
+      "option1": "Thriller",
+      "option2": "Comedy",
+      "option3": "Action"
+    },
+    {
+      "question": "What was Chia's favourite subject at school?",
+      "option1": "PE",
+      "option2": "Art",
+      "option3": "Maths"
+    },
+    {
+      "question": "Which of these can Chia play?",
+      "option1": "Piano",
+      "option2": "Drums",
+      "option3": "Saxophone"
+    },
+    {
+      "question": "What is Chia's favourite music genre?",
+      "option1": "R&B",
+      "option2": "Rap",
+      "option3": "Pop"
+    },
+    {
+      "question": "How many countries has Chia been to?",
+      "option1": "9",
+      "option2": "1",
+      "option3": "4"
+    },
+    {
+      "question": "Which of these could Chia not live without?",
+      "option1": "Music",
+      "option2": "TV/Movies",
+      "option3": "Social Media"
+    }
+  ]
 }

@@ -104,11 +104,26 @@ $(document).ready(function () {
   } //change question
 
   function displayFinalSlide() {
+    var message = "";
+    if (score == numberOfQuestions) {
+      message = "Mum? Is that you?";
+    } else if (score >= 8 && score < numberOfQuestions) {
+      message = "You could pass as a good friend.";
+    } else if (score >= 6 && score < 8) {
+      message = "That was some good guess work.";
+    } else if (score >= 3 && score < 6) {
+      message = "Well, at least you know me better now?";
+    } else {
+      message =
+        "I mean, it's probably harder to get a score this low so... glass half full, I guess?";
+    }
     $(stage).append(
       '<div class="questionText">You have finished the quiz!<br><br>Total questions: ' +
         numberOfQuestions +
         "<br>Correct answers: " +
         score +
+        "<br><br>" +
+        message +
         "</div>"
     );
   } //display final slide
